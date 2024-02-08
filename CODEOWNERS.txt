@@ -1,0 +1,6 @@
+# All changes in this repo will require approval from @tantive-nessi
+* @tantive-nessi
+
+# Any change inside the folder '/Dpcuments' will require approval from
+# anyone in the organizational test 'docsteam'
+/Documents @tantive-learning/docsteam
